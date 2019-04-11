@@ -23,10 +23,10 @@
       "**/*"
     ],
     "android": {
-      "package": "com.lakshaytyagi0001.Login"
+      "package": "com.lakshaytyagi0001.Pustak"
     },
     "ios": {
-      "bundleIdentifier": "com.lakshaytyagi0001.Login"
+      "bundleIdentifier": "com.lakshaytyagi0001.Pustak"
     }
   }
 }
